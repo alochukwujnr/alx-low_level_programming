@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_triangle - prints triangle
- * @size; printsize
+ * @size; print size
  * Return; Always 0.
  */
 
@@ -37,10 +37,9 @@ _putchar ('\n');
 
 }
 
-{
+}
 
 else
-
 {
 _putchar ('\n');
 }
